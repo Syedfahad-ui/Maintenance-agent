@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langgraph
+chromadb
+pandas
+streamlit
+flask
+python-dotenv
+scikit-learn
+notebook
